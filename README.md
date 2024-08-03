@@ -35,11 +35,11 @@ We are making this Project due to many problems thst had occurred earlier:-
 Scope of this System is not confined to only upto a particular city,or upto a particular state whereas all over the country.From any place at any time accessing is possible i.e 24hrs service for the people.
 
 # LIMITATIONS 
- 	Online Reservation can’t be possible at this phase.
- 	If a wrong username and password is entered,an error message should be displayed.
- 	If a valid username and password is entered,it should display the main menu.
- 	On clicking user should get the confirmation message for reservation or cancellation by displaying a message.
- 	When a new user access then a new PNR.No should generate for him.
+ Online Reservation can’t be possible at this phase.
+ If a wrong username and password is entered,an error message should be displayed.
+ If a valid username and password is entered,it should display the main menu.
+ On clicking user should get the confirmation message for reservation or cancellation by displaying a message.
+ When a new user access then a new PNR.No should generate for him.
 
 # Requirements
 
